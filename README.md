@@ -19,7 +19,7 @@ An AI-powered assistant application built with Electron that provides real-time 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Shansh0324/GhostFreak.git>
 cd ghostfreak
 ```
 
@@ -40,24 +40,6 @@ npm start
 4. Configure settings as needed
 5. Click "Start" to begin capturing audio and receiving AI assistance
 
-## Building
-
-Package the application:
-```bash
-npm run package
-```
-
-Create distributables:
-```bash
-npm run make
-```
-
-## Testing
-
-Run tests:
-```bash
-npm test
-```
 
 ## Project Structure
 
