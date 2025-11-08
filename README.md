@@ -80,11 +80,5 @@ Configuration files are stored in platform-specific locations:
 - **macOS**: `~/Library/Application Support/ghostfreak-config`
 - **Linux**: `~/.config/ghostfreak-config`
 
-## License
 
-GPL-3.0
-
-## Author
-
-sohzm (sohambharambe9@gmail.com)
 
