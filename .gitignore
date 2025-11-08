@@ -94,3 +94,6 @@ out/
 .specstory
 .specstory/
 
+# GitHub workflows
+.github/workflows/
+
